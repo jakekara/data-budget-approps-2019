@@ -1,0 +1,571 @@
+fund,agency,sid,appropriated_fy_2019,recommended_2020,recommended_2021,sid_code,sid_term
+General Fund,Legislative Management,10010 - Personal Services,42119559,44553097,47495338,10010,10010
+General Fund,Legislative Management,10020 - Other Expenses,11976294,11976294,11976294,10020,10020
+General Fund,Legislative Management,10050 - Equipment,50000,50000,50000,10050,10050
+General Fund,Legislative Management,12210 - Interim Salary/Caucus Offices,19984,19984,19984,12210,12210
+General Fund,Legislative Management,12249 - Redistricting,25000,25000,25000,12249,12249
+General Fund,Legislative Management,12445 - Old State House,500000,500000,500000,12445,12445
+General Fund,Legislative Management,16057 - Interstate Conference Fund,377944,377944,377944,16057,16057
+General Fund,Legislative Management,16130 - New England Board of Higher Education,183750,183750,183750,16130,16130
+General Fund,Auditors of Public Accounts,10010 - Personal Services,10349151,10988315,11695262,10010,10010
+General Fund,Auditors of Public Accounts,10020 - Other Expenses,272143,272143,272143,10020,10020
+General Fund,"Commission on Women, Children and Seniors",10010 - Personal Services,400000,425385,453460,10010,10010
+General Fund,"Commission on Women, Children and Seniors",10020 - Other Expenses,30000,30000,30000,10020,10020
+General Fund,Commission on Equity and Opportunity,10010 - Personal Services,400000,425385,453460,10010,10010
+General Fund,Commission on Equity and Opportunity,10020 - Other Expenses,30000,30000,30000,10020,10020
+General Fund,Governor's Office,10010 - Personal Services,1943213,2043764,2154748,10010,10010
+General Fund,Governor's Office,10020 - Other Expenses,176132,174483,174483,10020,10020
+General Fund,Governor's Office,16026 - Coalition of Northeastern Governors,66952,74391,74391,16026,16026
+General Fund,Governor's Office,16035 - National Governors' Association,105204,106600,106600,16035,16035
+General Fund,Secretary of the State,10010 - Personal Services,2550229,2681168,2826337,10010,10010
+General Fund,Secretary of the State,10020 - Other Expenses,1660209,1659594,1659594,10020,10020
+General Fund,Secretary of the State,12480 - Commercial Recording Division,4532718,4672490,4819503,12480,12480
+General Fund,Lieutenant Governor's Office,10010 - Personal Services,591699,618549,648244,10010,10010
+General Fund,Lieutenant Governor's Office,10020 - Other Expenses,57251,57251,57251,10020,10020
+General Fund,Elections Enforcement Commission,12522 - Elections Enforcement Commission,3125570,3321817,3518682,12522,12522
+General Fund,Office of State Ethics,12347 - Information Technology Initiatives,28226,0,0,12347,12347
+General Fund,Office of State Ethics,12523 - Office of State Ethics,1403529,1515986,1610143,12523,12523
+General Fund,Freedom of Information Commission,12524 - Freedom of Information Commission,1513476,1618072,1707192,12524,12524
+General Fund,State Treasurer,10010 - Personal Services,2759385,2903527,3052378,10010,10010
+General Fund,State Treasurer,10020 - Other Expenses,125614,124999,124999,10020,10020
+General Fund,Debt Service - State Treasurer,12285 - Debt Service,1858767569,1906900160,1997208185,12285,12285
+General Fund,Debt Service - State Treasurer,12286 - UConn 2000 - Debt Service,210955639,216225089,234906539,12286,12286
+General Fund,Debt Service - State Treasurer,12287 - CHEFA Day Care Security,5500000,5500000,5500000,12287,12287
+General Fund,Debt Service - State Treasurer,12500 - Pension Obligation Bonds - TRB,118400521,118400521,118400521,12500,12500
+General Fund,Debt Service - State Treasurer,17105 - Municipal Restructuring,20000000,45666625,56314629,17105,17105
+General Fund,State Comptroller,10010 - Personal Services,22023826,23014883,24235594,10010,10010
+General Fund,State Comptroller,10020 - Other Expenses,4511411,4750883,4749293,10020,10020
+General Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,2985705,11111545,22326243,19001,19001
+General Fund,State Comptroller - Fringe Benefits,12005 - Unemployment Compensation,6465764,6132100,4974400,12005,12005
+General Fund,State Comptroller - Fringe Benefits,12006 - State Employees Retirement Contributions,1165586416,1268557372,1373926320,12006,12006
+General Fund,State Comptroller - Fringe Benefits,12007 - Higher Education Alternative Retirement System,1000,30044700,30044700,12007,12007
+General Fund,State Comptroller - Fringe Benefits,12008 - Pensions and Retirements - Other Statutory,1657248,1974003,2029134,12008,12008
+General Fund,State Comptroller - Fringe Benefits,12009 - Judges and Compensation Commissioners Retirement,27427480,27010989,28522111,12009,12009
+General Fund,State Comptroller - Fringe Benefits,12010 - Insurance - Group Life,8270468,8514800,8770200,12010,12010
+General Fund,State Comptroller - Fringe Benefits,12011 - Employers Social Security Tax,199077427,208255096,217511800,12011,12011
+General Fund,State Comptroller - Fringe Benefits,12012 - State Employees Health Service Cost,655811120,683297327,720194863,12012,12012
+General Fund,State Comptroller - Fringe Benefits,12013 - Retired State Employees Health Service Cost,687599000,776021000,847309000,12013,12013
+General Fund,State Comptroller - Fringe Benefits,12016 - Tuition Reimbursement - Training and Travel ,0,3475000,3508500,12016,12016
+General Fund,State Comptroller - Fringe Benefits,12018 - Other Post Employment Benefits,91200000,95650800,83371300,12018,12018
+General Fund,State Comptroller - Fringe Benefits,12T13 - SERS Defined Contribution Match,0,2135398,3240740,12T13,12T13
+General Fund,Department of Revenue Services,10010 - Personal Services,54639727,55738897,58820506,10010,10010
+General Fund,Department of Revenue Services,10020 - Other Expenses,6433061,7777623,7327623,10020,10020
+General Fund,Office of Governmental Accountability,10020 - Other Expenses,32507,30662,32287,10020,10020
+General Fund,Office of Governmental Accountability,12028 - Child Fatality Review Panel,94734,101202,108354,12028,12028
+General Fund,Office of Governmental Accountability,12525 - Contracting Standards Board,158494,167239,176909,12525,12525
+General Fund,Office of Governmental Accountability,12526 - Judicial Review Council,124509,128996,132963,12526,12526
+General Fund,Office of Governmental Accountability,12527 - Judicial Selection Commission,82097,86713,91816,12527,12527
+General Fund,Office of Governmental Accountability,12528 - Office of the Child Advocate,630059,670062,711931,12528,12528
+General Fund,Office of Governmental Accountability,12529 - Office of the Victim Advocate,387708,406323,428651,12529,12529
+General Fund,Office of Governmental Accountability,12530 - Board of Firearms Permit Examiners,113272,114611,121016,12530,12530
+General Fund,Office of Policy and Management,10010 - Personal Services,9728126,10875537,11579172,10010,10010
+General Fund,Office of Policy and Management,10020 - Other Expenses,1043180,1173684,1173684,10020,10020
+General Fund,Office of Policy and Management,12169 - Automated Budget System and Data Base Link,26776,26776,26776,12169,12169
+General Fund,Office of Policy and Management,12251 - Justice Assistance Grants,819440,823001,826328,12251,12251
+General Fund,Office of Policy and Management,12573 - Project Longevity,573750,573750,573750,12573,12573
+General Fund,Office of Policy and Management,12594 - Council of Governments,4106250,0,0,12594,12594
+General Fund,Office of Policy and Management,16017 - Tax Relief For Elderly Renters,25020226,25020226,25020226,16017,16017
+General Fund,Office of Policy and Management,16066 - Private Providers,31037000,3000000,6000000,16066,16066
+General Fund,Office of Policy and Management,17004 - Reimbursement to Towns for Loss of Taxes on State Property,56045788,54944031,54944031,17004,17004
+General Fund,Office of Policy and Management,17006 - Reimbursements to Towns for Private Tax-Exempt Property,105889432,105889434,105889434,17006,17006
+General Fund,Office of Policy and Management,17011 - Reimbursement Property Tax - Disability Exemption,364713,364713,364713,17011,17011
+General Fund,Office of Policy and Management,17021 - Property Tax Relief Elderly Freeze Program,65000,40000,40000,17021,17021
+General Fund,Office of Policy and Management,17024 - Property Tax Relief for Veterans,2708107,2708107,2708107,17024,17024
+General Fund,Office of Policy and Management,17102 - Municipal Revenue Sharing,36819135,36819135,36819135,17102,17102
+General Fund,Office of Policy and Management,17103 - Municipal Transition,30700000,29596908,32331732,17103,17103
+General Fund,Office of Policy and Management,17104 - Municipal Stabilization Grant,37753335,37753335,37753335,17104,17104
+General Fund,Office of Policy and Management,17105 - Municipal Restructuring,27300000,7300000,7300000,17105,17105
+General Fund,Reserve for Salary Adjustments,12015 - Reserve For Salary Adjustments,99232684,18226900,23893500,12015,12015
+General Fund,Department of Veterans Affairs,10010 - Personal Services,19359298,19375575,20415930,10010,10010
+General Fund,Department of Veterans Affairs,10020 - Other Expenses,2903427,2903207,2903207,10020,10020
+General Fund,Department of Veterans Affairs,12574 - SSMF Administration,511396,511396,511396,12574,12574
+General Fund,Department of Veterans Affairs,16045 - Burial Expenses,6666,6666,6666,16045,16045
+General Fund,Department of Veterans Affairs,16049 - Headstones,307834,307834,307834,16049,16049
+General Fund,Department of Administrative Services  ,10010 - Personal Services,45853884,48133645,50482515,10010,10010
+General Fund,Department of Administrative Services  ,10020 - Other Expenses,27377295,30143935,31181530,10020,10020
+General Fund,Department of Administrative Services  ,12115 - Loss Control Risk Management,92634,92634,92634,12115,12115
+General Fund,Department of Administrative Services  ,12123 - Employees' Review Board,17611,17611,17611,12123,12123
+General Fund,Department of Administrative Services  ,12141 - Surety Bonds for State Officials and Employees,147524,69000,73500,12141,12141
+General Fund,Department of Administrative Services  ,12176 - Refunds Of Collections,21453,21453,21453,12176,12176
+General Fund,Department of Administrative Services  ,12179 - Rents and Moving,11318952,10571577,10571577,12179,12179
+General Fund,Department of Administrative Services  ,12218 - W. C. Administrator,5000000,5000000,5000000,12218,12218
+General Fund,Department of Administrative Services  ,12507 - State Insurance and Risk Mgmt Operations,10917391,12239855,12239855,12507,12507
+General Fund,Department of Administrative Services  ,12511 - IT Services,11759563,14719176,17325576,12511,12511
+General Fund,Department of Administrative Services  ,12595 - Firefighters Fund,400000,400000,400000,12595,12595
+General Fund,Workers' Compensation Claims - Department of Administrative Services,12235 - Workers' Compensation Claims,7605530,7982375,8259800,12235,12235
+General Fund,Attorney General,10010 - Personal Services,30078364,30379331,30870633,10010,10010
+General Fund,Attorney General,10020 - Other Expenses,1020461,1019910,1019910,10020,10020
+General Fund,Division of Criminal Justice,10010 - Personal Services,42792388,44746899,46809521,10010,10010
+General Fund,Division of Criminal Justice,10020 - Other Expenses,2159460,2394240,2394240,10020,10020
+General Fund,Division of Criminal Justice,12069 - Witness Protection,164148,164148,164148,12069,12069
+General Fund,Division of Criminal Justice,12097 - Training And Education,27398,27398,27398,12097,12097
+General Fund,Division of Criminal Justice,12110 - Expert Witnesses,135413,135413,135413,12110,12110
+General Fund,Division of Criminal Justice,12117 - Medicaid Fraud Control,1041425,1197897,1254282,12117,12117
+General Fund,Division of Criminal Justice,12485 - Criminal Justice Commission,409,409,409,12485,12485
+General Fund,Division of Criminal Justice,12537 - Cold Case Unit,228213,228213,228213,12537,12537
+General Fund,Division of Criminal Justice,12538 - Shooting Taskforce,1034499,1074222,1127052,12538,12538
+General Fund,Department of Emergency Services and Public Protection,10010 - Personal Services,142219449,142669082,146135390,10010,10010
+General Fund,Department of Emergency Services and Public Protection,10020 - Other Expenses,25280114,27882589,28269417,10020,10020
+General Fund,Department of Emergency Services and Public Protection,12026 - Stress Reduction,25354,25354,25354,12026,12026
+General Fund,Department of Emergency Services and Public Protection,12082 - Fleet Purchase,6581737,5581737,5581737,12082,12082
+General Fund,Department of Emergency Services and Public Protection,12235 - Workers' Compensation Claims,4636817,4136817,4136817,12235,12235
+General Fund,Department of Emergency Services and Public Protection,12535 - Criminal Justice Information System,2739398,2684610,2684610,12535,12535
+General Fund,Department of Emergency Services and Public Protection,16009 - Fire Training School - Willimantic,150076,150076,150076,16009,16009
+General Fund,Department of Emergency Services and Public Protection,16010 - Maintenance of County Base Fire Radio Network,19528,19528,19528,16010,16010
+General Fund,Department of Emergency Services and Public Protection,16011 - Maintenance of State-Wide Fire Radio Network,12997,12997,12997,16011,16011
+General Fund,Department of Emergency Services and Public Protection,16013 - Police Association of Connecticut,172353,172353,172353,16013,16013
+General Fund,Department of Emergency Services and Public Protection,16014 - Connecticut State Firefighter's Association,176625,176625,176625,16014,16014
+General Fund,Department of Emergency Services and Public Protection,16025 - Fire Training School - Torrington,81367,81367,81367,16025,16025
+General Fund,Department of Emergency Services and Public Protection,16034 - Fire Training School - New Haven,48364,48364,48364,16034,16034
+General Fund,Department of Emergency Services and Public Protection,16044 - Fire Training School - Derby,37139,37139,37139,16044,16044
+General Fund,Department of Emergency Services and Public Protection,16056 - Fire Training School - Wolcott,100162,100162,100162,16056,16056
+General Fund,Department of Emergency Services and Public Protection,16065 - Fire Training School - Fairfield,70395,70395,70395,16065,16065
+General Fund,Department of Emergency Services and Public Protection,16074 - Fire Training School - Hartford,169336,169336,169336,16074,16074
+General Fund,Department of Emergency Services and Public Protection,16080 - Fire Training School - Middletown,68470,68470,68470,16080,16080
+General Fund,Department of Emergency Services and Public Protection,16179 - Fire Training School - Stamford,55432,55432,55432,16179,16179
+General Fund,Military Department,10010 - Personal Services,2635706,2777206,2945438,10010,10010
+General Fund,Military Department,10020 - Other Expenses,2171661,2171221,2171221,10020,10020
+General Fund,Military Department,12144 - Honor Guard,525000,469000,469000,12144,12144
+General Fund,Military Department,12325 - Veteran's Service Bonuses,93333,93333,93333,12325,12325
+General Fund,Department of Consumer Protection,10010 - Personal Services,12394045,13260897,14013498,10010,10010
+General Fund,Department of Consumer Protection,10020 - Other Expenses,1134001,1153928,1148428,10020,10020
+General Fund,Labor Department,10010 - Personal Services,8503989,9010063,9523180,10010,10010
+General Fund,Labor Department,10020 - Other Expenses,1026326,1014985,1014985,10020,10020
+General Fund,Labor Department,12079 - CETC Workforce,557632,562744,567979,12079,12079
+General Fund,Labor Department,12098 - Workforce Investment Act,36662281,33082628,33082628,12098,12098
+General Fund,Labor Department,12108 - Job Funnels Projects,73342,73342,73342,12108,12108
+General Fund,Labor Department,12205 - Connecticut's Youth Employment Program,4000000,4000040,4000096,12205,12205
+General Fund,Labor Department,12212 - Jobs First Employment Services,12482645,12521662,12562412,12212,12212
+General Fund,Labor Department,12328 - Apprenticeship Program,465342,482706,499921,12328,12328
+General Fund,Labor Department,12329 - Spanish-American Merchants Association,300367,302782,304694,12329,12329
+General Fund,Labor Department,12357 - Connecticut Career Resource Network,153113,111327,116385,12357,12357
+General Fund,Labor Department,12425 - STRIVE,76058,76058,76058,12425,12425
+General Fund,Labor Department,12575 - Opportunities for Long Term Unemployed,1753994,1754229,1754573,12575,12575
+General Fund,Labor Department,12576 - Veterans’ Opportunity Pilot,227606,233070,240823,12576,12576
+General Fund,Labor Department,12582 - Second Chance Initiative,311403,311481,311594,12582,12582
+General Fund,Labor Department,12583 - Cradle To Career,100000,0,0,12583,12583
+General Fund,Labor Department,12586 - New Haven Jobs Funnel,344241,344241,344241,12586,12586
+General Fund,Labor Department,12596 - Healthcare Apprenticeship Initiative,500000,0,0,12596,12596
+General Fund,Labor Department,12597 - Manufacturing Pipeline Initiative,1000000,901332,903251,12597,12597
+General Fund,Labor Department,12T26 - Paid Family Medical Leave,0,5170575,0,12T26,12T26
+General Fund,Commission on Human Rights and Opportunities,10010 - Personal Services,5715977,5987638,6308051,10010,10010
+General Fund,Commission on Human Rights and Opportunities,10020 - Other Expenses,286958,286958,286958,10020,10020
+General Fund,Commission on Human Rights and Opportunities,"12027 - Martin Luther King, Jr. Commission",5977,5977,5977,12027,12027
+General Fund,Department of Agriculture ,10010 - Personal Services,3509625,4015502,4209629,10010,10010
+General Fund,Department of Agriculture ,10020 - Other Expenses,802786,800959,800959,10020,10020
+General Fund,Department of Agriculture ,12421 - Senior Food Vouchers,350442,351939,354104,12421,12421
+General Fund,Department of Agriculture ,12606 - Dairy Farmer – Agriculture Sustainability ,1000000,5500000,5500000,12606,12606
+General Fund,Department of Agriculture ,16075 - WIC Coupon Program for Fresh Produce,167938,167938,167938,16075,16075
+General Fund,Department of Agriculture ,16T09 - Community Investment Account,0,3581807,3570450,16T09,16T09
+General Fund,Department of Energy and Environmental Protection,10010 - Personal Services,21499368,20235744,21222573,10010,10010
+General Fund,Department of Energy and Environmental Protection,10020 - Other Expenses,456853,358752,358752,10020,10020
+General Fund,Department of Energy and Environmental Protection,12054 - Mosquito Control,221097,230354,236055,12054,12054
+General Fund,Department of Energy and Environmental Protection,12084 - State Superfund Site Maintenance,399577,399577,399577,12084,12084
+General Fund,Department of Energy and Environmental Protection,12146 - Laboratory Fees,129015,129015,129015,12146,12146
+General Fund,Department of Energy and Environmental Protection,12195 - Dam Maintenance,113740,118956,124850,12195,12195
+General Fund,Department of Energy and Environmental Protection,12487 - Emergency Spill Response,6336389,6601519,6853389,12487,12487
+General Fund,Department of Energy and Environmental Protection,12488 - Solid Waste Management,3557478,3656481,3751297,12488,12488
+General Fund,Department of Energy and Environmental Protection,12489 - Underground Storage Tank,855844,890592,921535,12489,12489
+General Fund,Department of Energy and Environmental Protection,12490 - Clean Air,3850673,3974654,4117754,12490,12490
+General Fund,Department of Energy and Environmental Protection,12491 - Environmental Conservation,4850115,4856000,5010909,12491,12491
+General Fund,Department of Energy and Environmental Protection,12501 - Environmental Quality,8218035,8562360,8898044,12501,12501
+General Fund,Department of Energy and Environmental Protection,12598 - Fish Hatcheries,2079562,2115785,2161194,12598,12598
+General Fund,Department of Energy and Environmental Protection,16015 - Interstate Environmental Commission,44937,3333,3333,16015,16015
+General Fund,Department of Energy and Environmental Protection,16046 - New England Interstate Water Pollution Commission,26554,26554,26554,16046,16046
+General Fund,Department of Energy and Environmental Protection,16052 - Northeast Interstate Forest Fire Compact,3082,3082,3082,16052,16052
+General Fund,Department of Energy and Environmental Protection,16059 - Connecticut River Valley Flood Control Commission,30295,30295,30295,16059,16059
+General Fund,Department of Energy and Environmental Protection,16083 - Thames River Valley Flood Control Commission,45151,45151,45151,16083,16083
+General Fund,Department of Energy and Environmental Protection,16T09 - Community Investment Account,0,2470422,2450127,16T09,16T09
+General Fund,Department of Economic and Community Development,10010 - Personal Services,6946217,7457896,7862962,10010,10010
+General Fund,Department of Economic and Community Development,10020 - Other Expenses,500968,489382,489382,10020,10020
+General Fund,Department of Economic and Community Development,12437 - Office of Military Affairs,187575,194620,202411,12437,12437
+General Fund,Department of Economic and Community Development,12540 - Capital Region Development Authority,6249121,6249121,6249121,12540,12540
+General Fund,Department of Economic and Community Development,12T11 - State Historic Preservation,0,2295757,2295757,12T11,12T11
+General Fund,Department of Economic and Community Development,16197 - CT Trust for Historic Preservation,0,380000,380000,16197,16197
+General Fund,Department of Housing,10010 - Personal Services,1801379,1877176,1953445,10010,10010
+General Fund,Department of Housing,10020 - Other Expenses,153945,164893,164893,10020,10020
+General Fund,Department of Housing,12032 - Elderly Rental Registry and Counselors,1014722,1014722,1014722,12032,12032
+General Fund,Department of Housing,12504 - Homeless Youth,2282505,2292929,2292929,12504,12504
+General Fund,Department of Housing,12T13 - Homeless Supports,0,2480415,2480415,12T13,12T13
+General Fund,Department of Housing,16029 - Subsidized Assisted Living Demonstration,2084241,2612000,2678000,16029,16029
+General Fund,Department of Housing,16068 - Congregate Facilities Operation Costs,7189480,7189480,7189480,16068,16068
+General Fund,Department of Housing,16084 - Elderly Congregate Rent Subsidy,1942424,1942424,1942424,16084,16084
+General Fund,Department of Housing,16149 - Housing/Homeless Services,77748308,79388870,84779130,16149,16149
+General Fund,Department of Housing,17038 - Housing/Homeless Services  - Municipality,575226,575226,575226,17038,17038
+General Fund,Agricultural Experiment Station ,10010 - Personal Services,5479344,5755367,6012727,10010,10010
+General Fund,Agricultural Experiment Station ,10020 - Other Expenses,865032,865032,865032,10020,10020
+General Fund,Agricultural Experiment Station ,12056 - Mosquito Control,502312,512276,522880,12056,12056
+General Fund,Agricultural Experiment Station ,12288 - Wildlife Disease Prevention,92701,95809,99149,12288,12288
+General Fund,Department of Public Health ,10010 - Personal Services,33270303,34663333,36457261,10010,10010
+General Fund,Department of Public Health ,10020 - Other Expenses,7518063,7605696,7608342,10020,10020
+General Fund,Department of Public Health ,16060 - Community Health Services,1866646,1486753,1486753,16060,16060
+General Fund,Department of Public Health ,16103 - Rape Crisis,546942,548128,548128,16103,16103
+General Fund,Department of Public Health ,17009 - Local and District Departments of Health,4144588,3742666,3742666,17009,17009
+General Fund,Department of Public Health ,17019 - School Based Health Clinics,10743232,10550187,10550187,17019,17019
+General Fund,Office of Health Strategy,10010 - Personal Services,1937390,2029556,2111198,10010,10010
+General Fund,Office of Health Strategy,10020 - Other Expenses,38042,38042,38042,10020,10020
+General Fund,Office of the Chief Medical Examiner,10010 - Personal Services,4789527,5527527,5838564,10010,10010
+General Fund,Office of the Chief Medical Examiner,10020 - Other Expenses,1435536,1442198,1442198,10020,10020
+General Fund,Office of the Chief Medical Examiner,10050 - Equipment,23310,23310,23310,10050,10050
+General Fund,Office of the Chief Medical Examiner,12033 - Medicolegal Investigations,22150,22150,22150,12033,12033
+General Fund,Department of Developmental Services,10010 - Personal Services,201093871,200282835,209745951,10010,10010
+General Fund,Department of Developmental Services,10020 - Other Expenses,15757513,15133419,15069356,10020,10020
+General Fund,Department of Developmental Services,12035 - Housing Supports and Services,350000,350000,1400000,12035,12035
+General Fund,Department of Developmental Services,12072 - Family Support Grants,3700840,3700840,3700840,12072,12072
+General Fund,Department of Developmental Services,12185 - Clinical Services,2365359,2340271,2337724,12185,12185
+General Fund,Department of Developmental Services,12235 - Workers' Compensation Claims,13823176,14598415,15404040,12235,12235
+General Fund,Department of Developmental Services,12493 - Behavioral Services Program,22028926,23044686,22571979,12493,12493
+General Fund,Department of Developmental Services,12521 - Supplemental Payments for Medical Services,3686196,3433467,3208132,12521,12521
+General Fund,Department of Developmental Services,12599 - ID Partnership Initiatives,1529000,1529000,1529000,12599,12599
+General Fund,Department of Developmental Services,12607 - Emergency Placements ,5000000,5630000,5630000,12607,12607
+General Fund,Department of Developmental Services,16069 - Rent Subsidy Program,4782312,4782312,4782312,16069,16069
+General Fund,Department of Developmental Services,16108 - Employment Opportunities and Day Services,250382413,277945780,289183217,16108,16108
+General Fund,Department of Mental Health and Addiction Services,10010 - Personal Services,179918858,194000374,205175281,10010,10010
+General Fund,Department of Mental Health and Addiction Services,10020 - Other Expenses,23191753,24880878,24437990,10020,10020
+General Fund,Department of Mental Health and Addiction Services,12035 - Housing Supports and Services,22804287,22966163,22966163,12035,12035
+General Fund,Department of Mental Health and Addiction Services,12157 - Managed Service System,55325363,59217373,64936355,12157,12157
+General Fund,Department of Mental Health and Addiction Services,12196 - Legal Services,700144,706179,706179,12196,12196
+General Fund,Department of Mental Health and Addiction Services,12199 - Connecticut Mental Health Center,7848323,6998821,6998821,12199,12199
+General Fund,Department of Mental Health and Addiction Services,12207 - Professional Services,11200697,12610958,12550903,12207,12207
+General Fund,Department of Mental Health and Addiction Services,12220 - General Assistance Managed Care,41339713,40377409,40722054,12220,12220
+General Fund,Department of Mental Health and Addiction Services,12235 - Workers' Compensation Claims,11405512,14493430,15021165,12235,12235
+General Fund,Department of Mental Health and Addiction Services,12247 - Nursing Home Screening,623625,652784,652784,12247,12247
+General Fund,Department of Mental Health and Addiction Services,12250 - Young Adult Services,75125743,74502486,74240746,12250,12250
+General Fund,Department of Mental Health and Addiction Services,12256 - TBI Community Services,8596174,8385284,8452441,12256,12256
+General Fund,Department of Mental Health and Addiction Services,12278 - Jail Diversion,95000,0,0,12278,12278
+General Fund,Department of Mental Health and Addiction Services,12289 - Behavioral Health Medications,6720754,6720754,6720754,12289,12289
+General Fund,Department of Mental Health and Addiction Services,12298 - Medicaid Adult Rehabilitation Option,4184260,4184260,4184260,12298,12298
+General Fund,Department of Mental Health and Addiction Services,12330 - Discharge and Diversion Services,24043142,24216478,24216478,12330,12330
+General Fund,Department of Mental Health and Addiction Services,12444 - Home and Community Based Services,23746667,20980076,22220669,12444,12444
+General Fund,Department of Mental Health and Addiction Services,12541 - Nursing Home Contract,409594,409594,409594,12541,12541
+General Fund,Department of Mental Health and Addiction Services,12600 - Katie Blair House,15000,0,0,12600,12600
+General Fund,Department of Mental Health and Addiction Services,12601 - Forensic Services,9922892,10145246,10275522,12601,12601
+General Fund,Department of Mental Health and Addiction Services,16003 - Grants for Substance Abuse Services,17788229,17557460,17557460,16003,16003
+General Fund,Department of Mental Health and Addiction Services,16053 - Grants for Mental Health Services,65874535,64999107,64999107,16053,16053
+General Fund,Department of Mental Health and Addiction Services,16070 - Employment Opportunities,8723779,8791514,8791514,16070,16070
+General Fund,Psychiatric Security Review Board,10010 - Personal Services,271444,284612,299756,10010,10010
+General Fund,Psychiatric Security Review Board,10020 - Other Expenses,25068,25068,25068,10020,10020
+General Fund,Department of Social Services,10010 - Personal Services,117199907,132461471,139867419,10010,10010
+General Fund,Department of Social Services,10020 - Other Expenses,139311834,156674427,148773485,10020,10020
+General Fund,Department of Social Services,12197 - Genetic Tests in Paternity Actions,81906,81906,81906,12197,12197
+General Fund,Department of Social Services,12239 - HUSKY B Program,5320000,8870000,14830000,12239,12239
+General Fund,Department of Social Services,16020 - Medicaid,2608368000,2689940000,2771150000,16020,16020
+General Fund,Department of Social Services,16061 - Old Age Assistance,39826302,42600000,43550000,16061,16061
+General Fund,Department of Social Services,16071 - Aid To The Blind,584005,529100,523900,16071,16071
+General Fund,Department of Social Services,16077 - Aid To The Disabled,61107546,59690000,59660000,16077,16077
+General Fund,Department of Social Services,16090 - Temporary Family Assistance,75131712,62230000,60870000,16090,16090
+General Fund,Department of Social Services,16096 - Emergency Assistance,1,1,1,16096,16096
+General Fund,Department of Social Services,16098 - Food Stamp Training Expenses,9832,9832,9832,16098,16098
+General Fund,Department of Social Services,16109 - DMHAS-Disproportionate Share,108935000,108935000,108935000,16109,16109
+General Fund,Department of Social Services,16114 - Connecticut Home Care Program,44350000,36810000,36900000,16114,16114
+General Fund,Department of Social Services,16118 - Human Resource Development-Hispanic Programs,1197307,1206885,1206885,16118,16118
+General Fund,Department of Social Services,16122 - Community Residential Services,562902640,623412127,639014602,16122,16122
+General Fund,Department of Social Services,16123 - Protective Services for the Elderly,785204,0,0,16123,16123
+General Fund,Department of Social Services,16128 - Safety Net Services,1326321,1334544,1334544,16128,16128
+General Fund,Department of Social Services,16139 - Refunds Of Collections,94699,94699,94699,16139,16139
+General Fund,Department of Social Services,16146 - Services for Persons With Disabilities,273897,276362,276362,16146,16146
+General Fund,Department of Social Services,16148 - Nutrition Assistance,743095,749040,749040,16148,16148
+General Fund,Department of Social Services,16157 - State Administered General Assistance,19334722,17810000,17470000,16157,16157
+General Fund,Department of Social Services,16159 - Connecticut Children's Medical Center,10125737,10125737,10125737,16159,16159
+General Fund,Department of Social Services,16160 - Community Services,688676,275376,275376,16160,16160
+General Fund,Department of Social Services,16174 - Human Service Infrastructure Community Action Program,3149619,3292432,3292432,16174,16174
+General Fund,Department of Social Services,16177 - Teen Pregnancy Prevention,1245860,1255827,1255827,16177,16177
+General Fund,Department of Social Services,16270 - Family Programs - TANF,29337,0,0,16270,16270
+General Fund,Department of Social Services,16271 - Domestic Violence Shelters,5247072,5289049,5289049,16271,16271
+General Fund,Department of Social Services,16272 - Hospital Supplemental Payments,496340138,453331102,453331102,16272,16272
+General Fund,Department of Social Services,17032 - Teen Pregnancy Prevention - Municipality,98281,98281,98281,17032,17032
+General Fund,Department of Rehabilitation Services,10010 - Personal Services,6630843,6961374,7345000,10010,10010
+General Fund,Department of Rehabilitation Services,10020 - Other Expenses,1435685,1422517,1422517,10020,10020
+General Fund,Department of Rehabilitation Services,12060 - Educational Aid for Blind and Visually Handicapped Children,3952579,4145301,4337011,12060,12060
+General Fund,Department of Rehabilitation Services,12301 - Employment Opportunities – Blind & Disabled,1011871,1021990,1021990,12301,12301
+General Fund,Department of Rehabilitation Services,16004 - Vocational Rehabilitation - Disabled,7207005,7279075,7279075,16004,16004
+General Fund,Department of Rehabilitation Services,16040 - Supplementary Relief and Services,44847,44847,44847,16040,16040
+General Fund,Department of Rehabilitation Services,16078 - Special Training for the Deaf Blind,262643,265269,265269,16078,16078
+General Fund,Department of Rehabilitation Services,16086 - Connecticut Radio Information Service,20194,20194,20194,16086,16086
+General Fund,Department of Rehabilitation Services,16153 - Independent Living Centers,309407,312725,312725,16153,16153
+General Fund,Department of Rehabilitation Services,16260 - Programs for Senior Citizens,3268993,3278743,3278743,16260,16260
+General Fund,Department of Rehabilitation Services,16278 - Elderly Nutrition ,4626390,2626390,2626390,16278,16278
+General Fund,Department of Education,10010 - Personal Services,15811046,16889546,17734577,10010,10010
+General Fund,Department of Education,10020 - Other Expenses,3098843,3520381,3520381,10020,10020
+General Fund,Department of Education,"12171 - Development of Mastery Exams Grades 4, 6, and 8",10410723,10449592,10490334,12171,12171
+General Fund,Department of Education,12198 - Primary Mental Health,345288,345288,345288,12198,12198
+General Fund,Department of Education,"12211 - Leadership, Education, Athletics in Partnership (LEAP)",312211,0,0,12211,12211
+General Fund,Department of Education,12216 - Adult Education Action,194534,194534,194534,12216,12216
+General Fund,Department of Education,12261 - Connecticut Writing Project,20250,0,0,12261,12261
+General Fund,Department of Education,12318 - Neighborhood Youth Centers,438866,438866,438866,12318,12318
+General Fund,Department of Education,12405 - Longitudinal Data Systems,1091650,0,0,12405,12405
+General Fund,Department of Education,12457 - Sheff Settlement,11027361,10250966,10277534,12457,12457
+General Fund,Department of Education,12506 - Parent Trust Fund Program,267193,0,0,12506,12506
+General Fund,Department of Education,12519 - Regional Vocational-Technical School System,130188101,135153018,140398647,12519,12519
+General Fund,Department of Education,12547 - Commissioner’s Network,10009398,10009398,10009398,12547,12547
+General Fund,Department of Education,12549 - Local Charter Schools,540000,600000,660000,12549,12549
+General Fund,Department of Education,12550 - Bridges to Success,27000,0,0,12550,12550
+General Fund,Department of Education,12551 - K-3 Reading Assessment Pilot,2215782,0,0,12551,12551
+General Fund,Department of Education,12552 - Talent Development,2150000,2164593,2183986,12552,12552
+General Fund,Department of Education,12587 - School-Based Diversion Initiative,900000,900000,900000,12587,12587
+General Fund,Department of Education,12602 - Technical High Schools Other Expenses,22668577,22668577,22668577,12602,12602
+General Fund,Department of Education,12T80 - EdSight,0,1095806,1100273,12T80,12T80
+General Fund,Department of Education,12T81 - Sheff Transportation,0,44750421,45781798,12T81,12T81
+General Fund,Department of Education,"12T83 - Curriculum and Standards- Math, Literacy, Science, Social Studies, Civics and Arts",0,2215782,2215782,12T83,12T83
+General Fund,Department of Education,16021 - American School For The Deaf,7857514,7857514,7857514,16021,16021
+General Fund,Department of Education,16062 - Regional Education Services,262500,262500,262500,16062,16062
+General Fund,Department of Education,16110 - Family Resource Centers,5802710,5802710,5802710,16110,16110
+General Fund,Department of Education,16119 - Charter Schools,116964132,118822500,121128750,16119,16119
+General Fund,Department of Education,16201 - Youth Service Bureau Enhancement,583973,588973,588973,16201,16201
+General Fund,Department of Education,16211 - Child Nutrition State Match,2354000,2354000,2354000,16211,16211
+General Fund,Department of Education,16212 - Health Foods Initiative,4151463,4151463,4151463,16212,16212
+General Fund,Department of Education,17017 - Vocational Agriculture,13759589,14952000,15124200,17017,17017
+General Fund,Department of Education,17030 - Adult Education,20383960,20383960,20383960,17030,17030
+General Fund,Department of Education,17034 - Health and Welfare Services Pupils Private Schools,3438415,0,0,17034,17034
+General Fund,Department of Education,17041 - Education Equalization Grants,2016728682,2034411986,2056150639,17041,17041
+General Fund,Department of Education,17042 - Bilingual Education,3177112,3177112,3177112,17042,17042
+General Fund,Department of Education,17043 - Priority School Districts,37150868,37150868,37150868,17043,17043
+General Fund,Department of Education,17044 - Young Parents Program,71657,0,0,17044,17044
+General Fund,Department of Education,17045 - Interdistrict Cooperation,1537500,1537500,1537500,17045,17045
+General Fund,Department of Education,17046 - School Breakfast Program,2158900,2158900,2158900,17046,17046
+General Fund,Department of Education,17047 - Excess Cost - Student Based,140619782,140619782,140619782,17047,17047
+General Fund,Department of Education,17052 - Youth Service Bureaus,2598486,2612772,2612772,17052,17052
+General Fund,Department of Education,17053 - Open Choice Program,39138373,26835214,27682027,17053,17053
+General Fund,Department of Education,17057 - Magnet Schools,326508158,298204848,300033302,17057,17057
+General Fund,Department of Education,17084 - After School Program,4720695,4720695,4720695,17084,17084
+General Fund,Office of Early Childhood,10010 - Personal Services,7574843,8655055,9156554,10010,10010
+General Fund,Office of Early Childhood,10020 - Other Expenses,391141,388987,388987,10020,10020
+General Fund,Office of Early Childhood,12192 - Birth to Three,21446804,21822123,22204010,12192,12192
+General Fund,Office of Early Childhood,12569 - Evenstart,295456,295456,295456,12569,12569
+General Fund,Office of Early Childhood,12584 - 2Gen - TANF,412500,412500,412500,12584,12584
+General Fund,Office of Early Childhood,12603 - Nurturing Families Network,10230303,10278822,10278822,12603,12603
+General Fund,Office of Early Childhood,16101 - Head Start Services,5083238,5083238,5083238,16101,16101
+General Fund,Office of Early Childhood,16147 - Care4Kids TANF/CCDF,130032034,54627096,59527096,16147,16147
+General Fund,Office of Early Childhood,16158 - Child Care Quality Enhancements,6855033,6855033,6855033,16158,16158
+General Fund,Office of Early Childhood,16265 - Early Head Start-Child Care Partnership,1130750,1130750,100000,16265,16265
+General Fund,Office of Early Childhood,16274 - Early Care and Education,101507832,127798399,127798399,16274,16274
+General Fund,Office of Early Childhood,16279 - Smart Start ,3325000,3325000,3325000,16279,16279
+General Fund,State Library ,10010 - Personal Services,4880054,5115448,5380671,10010,10010
+General Fund,State Library ,10020 - Other Expenses,405339,405229,405229,10020,10020
+General Fund,State Library ,12061 - State-Wide Digital Library,1575174,1575174,1575174,12061,12061
+General Fund,State Library ,12104 - Interlibrary Loan Delivery Service,248609,256795,266392,12104,12104
+General Fund,State Library ,12172 - Legal/Legislative Library Materials,574540,574540,574540,12172,12172
+General Fund,State Library ,16022 - Support Cooperating Library Service Units,124402,124402,124402,16022,16022
+General Fund,State Library ,17010 - Connecticard Payments,703638,703638,703638,17010,17010
+General Fund,Office of Higher Education,10010 - Personal Services,1425036,1477763,1535334,10010,10010
+General Fund,Office of Higher Education,10020 - Other Expenses,66466,66466,66466,10020,10020
+General Fund,Office of Higher Education,12188 - Minority Advancement Program,1610721,1614726,1619090,12188,12188
+General Fund,Office of Higher Education,12200 - National Service Act,234806,239668,244912,12200,12200
+General Fund,Office of Higher Education,12214 - Minority Teacher Incentive Program,320134,320134,320134,12214,12214
+General Fund,Office of Higher Education,16261 - Roberta B. Willis Scholarship Fund,33388637,33388637,33388637,16261,16261
+General Fund,University of Connecticut,12139 - Operating Expenses,171494997,181218188,192113742,12139,12139
+General Fund,University of Connecticut,12235 - Workers' Compensation Claims,2271228,2271228,2271228,12235,12235
+General Fund,University of Connecticut,12588 - Next Generation Connecticut,16865367,16865367,16865367,12588,12588
+General Fund,University of Connecticut Health Center,12139 - Operating Expenses,103772410,109785175,116556690,12139,12139
+General Fund,University of Connecticut Health Center,12159 - AHEC,374566,375179,375832,12159,12159
+General Fund,University of Connecticut Health Center,12235 - Workers' Compensation Claims,4324771,2670431,2917484,12235,12235
+General Fund,University of Connecticut Health Center,12589 - Bioscience,11261097,15400000,16000000,12589,12589
+General Fund,Teachers' Retirement Board ,10010 - Personal Services,1561604,1631971,1722838,10010,10010
+General Fund,Teachers' Retirement Board ,10020 - Other Expenses,444727,431727,544727,10020,10020
+General Fund,Teachers' Retirement Board ,16006 - Retirement Contributions,1292314000,1208783000,1248029000,16006,16006
+General Fund,Teachers' Retirement Board ,16023 - Retirees Health Service Cost,14575250,26001300,29849400,16023,16023
+General Fund,Teachers' Retirement Board ,16032 - Municipal Retiree Health Insurance Costs,4644673,5532120,5535640,16032,16032
+General Fund,Connecticut State Colleges and Universities,12235 - Workers' Compensation Claims,3289276,3289276,3289276,12235,12235
+General Fund,Connecticut State Colleges and Universities,12531 - Charter Oak State College,2950543,3112823,3284028,12531,12531
+General Fund,Connecticut State Colleges and Universities,12532 - Community Tech College System,134043547,141415942,149193817,12532,12532
+General Fund,Connecticut State Colleges and Universities,12533 - Connecticut State University,138303424,145180562,153165495,12533,12533
+General Fund,Connecticut State Colleges and Universities,12534 - Board of Regents,366875,387053,408341,12534,12534
+General Fund,Connecticut State Colleges and Universities,12591 - Developmental Services,8912702,8912702,8912702,12591,12591
+General Fund,Connecticut State Colleges and Universities,12592 - Outcomes-Based Funding Incentive,1202027,1202027,1202027,12592,12592
+General Fund,Connecticut State Colleges and Universities,12604 - Institute for Municipal and Regional Policy,450000,300000,300000,12604,12604
+General Fund,Department of Correction,10010 - Personal Services,371925062,393439073,412881037,10010,10010
+General Fund,Department of Correction,10020 - Other Expenses,63378930,65729965,69596565,10020,10020
+General Fund,Department of Correction,12235 - Workers' Compensation Claims,26871594,30008856,31115914,12235,12235
+General Fund,Department of Correction,12242 - Inmate Medical Services,72383992,85640077,87970535,12242,12242
+General Fund,Department of Correction,12302 - Board of Pardons and Paroles,6260389,6567994,6927233,12302,12302
+General Fund,Department of Correction,12327 - STRIDE,73342,73342,73342,12327,12327
+General Fund,Department of Correction,16007 - Aid to Paroled and Discharged Inmates,3000,3000,3000,16007,16007
+General Fund,Department of Correction,16042 - Legal Services To Prisoners,797000,797000,797000,16042,16042
+General Fund,Department of Correction,16073 - Volunteer Services,87385,87725,87725,16073,16073
+General Fund,Department of Correction,16173 - Community Support Services,33909614,34129544,34129544,16173,16173
+General Fund,Department of Children and Families,10010 - Personal Services,266242164,269468513,279496655,10010,10010
+General Fund,Department of Children and Families,10020 - Other Expenses,28887225,28964687,29160237,10020,10020
+General Fund,Department of Children and Families,12235 - Workers' Compensation Claims,12578720,10470082,10158413,12235,12235
+General Fund,Department of Children and Families,12304 - Family Support Services,867677,946451,946451,12304,12304
+General Fund,Department of Children and Families,12515 - Differential Response System,7764046,13120002,15812975,12515,12515
+General Fund,Department of Children and Families,12570 - Regional Behavioral Health Consultation,1619023,1646024,1646024,12570,12570
+General Fund,Department of Children and Families,16008 - Health Assessment and Consultation,1082532,1415723,1415723,16008,16008
+General Fund,Department of Children and Families,16024 - Grants for Psychiatric Clinics for Children,14979041,16182464,16182464,16024,16024
+General Fund,Department of Children and Families,16033 - Day Treatment Centers for Children,6759728,7275589,7275589,16033,16033
+General Fund,Department of Children and Families,16064 - Child Abuse and Neglect Intervention,10116287,9874101,9874101,16064,16064
+General Fund,Department of Children and Families,16092 - Community Based Prevention Programs,7637305,7527785,7527785,16092,16092
+General Fund,Department of Children and Families,16097 - Family Violence Outreach and Counseling,2547289,3745395,3745395,16097,16097
+General Fund,Department of Children and Families,16102 - Supportive Housing,18479526,19886064,19886064,16102,16102
+General Fund,Department of Children and Families,16107 - No Nexus Special Education,2151861,1904652,1952268,16107,16107
+General Fund,Department of Children and Families,16111 - Family Preservation Services,6070574,6593987,6593987,16111,16111
+General Fund,Department of Children and Families,16116 - Substance Abuse Treatment,9840612,8629640,8629640,16116,16116
+General Fund,Department of Children and Families,16120 - Child Welfare Support Services,1757237,2560026,2560026,16120,16120
+General Fund,Department of Children and Families,16132 - Board and Care for Children - Adoption,98735921,102078733,104750134,16132,16132
+General Fund,Department of Children and Families,16135 - Board and Care for Children - Foster,135345435,136996712,136781796,16135,16135
+General Fund,Department of Children and Families,16138 - Board and Care for Children - Short-term and Residential,90339295,89246759,88983554,16138,16138
+General Fund,Department of Children and Families,16140 - Individualized Family Supports,6552680,5885205,5885205,16140,16140
+General Fund,Department of Children and Families,16141 - Community Kidcare,37968191,44221621,44103938,16141,16141
+General Fund,Department of Children and Families,16144 - Covenant to Care,133548,161412,161412,16144,16144
+General Fund,Judicial Department ,10010 - Personal Services,325017550,339801606,353827190,10010,10010
+General Fund,Judicial Department ,10020 - Other Expenses,59839025,59839025,59839025,10020,10020
+General Fund,Judicial Department ,12025 - Forensic Sex Evidence Exams,1348010,1348010,1348010,12025,12025
+General Fund,Judicial Department ,12043 - Alternative Incarceration Program,49452837,50257733,50257733,12043,12043
+General Fund,Judicial Department ,"12064 - Justice Education Center, Inc.",466217,469714,469714,12064,12064
+General Fund,Judicial Department ,12105 - Juvenile Alternative Incarceration,19919286,20063056,20063056,12105,12105
+General Fund,Judicial Department ,12135 - Probate Court,4350000,4350000,4350000,12135,12135
+General Fund,Judicial Department ,12235 - Workers' Compensation Claims,6042106,6042106,6042106,12235,12235
+General Fund,Judicial Department ,12375 - Youthful Offender Services,9653277,9725677,9725677,12375,12375
+General Fund,Judicial Department ,12376 - Victim Security Account,8792,8792,8792,12376,12376
+General Fund,Judicial Department ,12502 - Children of Incarcerated Parents,490053,493728,493728,12502,12502
+General Fund,Judicial Department ,12516 - Legal Aid,1397144,1397144,1397144,12516,12516
+General Fund,Judicial Department ,12555 - Youth Violence Initiative,1925318,1939758,1939758,12555,12555
+General Fund,Judicial Department ,12559 - Youth Services Prevention,3187174,3211078,3211078,12559,12559
+General Fund,Judicial Department ,12572 - Children's Law Center,92445,92445,92445,12572,12572
+General Fund,Judicial Department ,12579 - Juvenile Planning,208620,208620,208620,12579,12579
+General Fund,Judicial Department ,16043 - Juvenile Justice Outreach Services,10566795,10646046,10646046,16043,16043
+General Fund,Judicial Department ,16138 - Board and Care for Children - Short-term and Residential,6285334,6332474,6332474,16138,16138
+General Fund,Public Defender Services Commission ,10010 - Personal Services,38260790,40153930,42299163,10010,10010
+General Fund,Public Defender Services Commission ,10020 - Other Expenses,1173363,1181163,1181163,10020,10020
+General Fund,Public Defender Services Commission ,12076 - Assigned Counsel - Criminal,22442284,22442284,22442284,12076,12076
+General Fund,Public Defender Services Commission ,12090 - Expert Witnesses,2875604,2875604,2875604,12090,12090
+General Fund,Public Defender Services Commission ,12106 - Training And Education,119748,119748,119748,12106,12106
+General Fund,Statewide - Lapses,19501 - Unallocated Lapse,-9515570,-9515570,-9515570,19501,19501
+General Fund,Statewide - Lapses,19503 - Unallocated Lapse - Judicial,-5000000,-5000000,-5000000,19503,19503
+General Fund,Statewide - Lapses,99377 - Statewide Hiring Reduction,-7000000,-7000000,-7000000,99377,99377
+General Fund,Statewide - Lapses,99401 - Achieve Labor Concessions,0,-181900000,-276800000,99401,99401
+Special Transportation Fund,Debt Service - State Treasurer,12285 - Debt Service,651223716,690580233,756638231,12285,12285
+Special Transportation Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,213133,1181008,1296031,19001,19001
+Special Transportation Fund,State Comptroller - Fringe Benefits,12005 - Unemployment Compensation,203548,203548,203548,12005,12005
+Special Transportation Fund,State Comptroller - Fringe Benefits,12006 - State Employees Retirement Contributions,126280942,162804000,175928000,12006,12006
+Special Transportation Fund,State Comptroller - Fringe Benefits,12010 - Insurance - Group Life,277357,282900,288600,12010,12010
+Special Transportation Fund,State Comptroller - Fringe Benefits,12011 - Employers Social Security Tax,15674834,16545655,17296756,12011,12011
+Special Transportation Fund,State Comptroller - Fringe Benefits,12012 - State Employees Health Service Cost,46618403,51600045,55063217,12012,12012
+Special Transportation Fund,State Comptroller - Fringe Benefits,12018 - Other Post Employment Benefits,6000000,6128100,5264600,12018,12018
+Special Transportation Fund,State Comptroller - Fringe Benefits,12T13 - SERS Defined Contribution Match,0,245585,364506,12T13,12T13
+Special Transportation Fund,Reserve for Salary Adjustments,12015 - Reserve For Salary Adjustments,2301186,1932200,2055500,12015,12015
+Special Transportation Fund,Department of Administrative Services  ,12507 - State Insurance and Risk Mgmt Operations,8508924,8934370,8934370,12507,12507
+Special Transportation Fund,Workers' Compensation Claims - Department of Administrative Services,12235 - Workers' Compensation Claims,6723297,6723297,6723297,12235,12235
+Special Transportation Fund,Department of Motor Vehicles,10010 - Personal Services,49296260,51720146,54672496,10010,10010
+Special Transportation Fund,Department of Motor Vehicles,10020 - Other Expenses,15397378,15405556,15405556,10020,10020
+Special Transportation Fund,Department of Motor Vehicles,10050 - Equipment,468756,468756,468756,10050,10050
+Special Transportation Fund,Department of Motor Vehicles,12091 - Commercial Vehicle Information Systems and Networks Project,214676,324676,324676,12091,12091
+Special Transportation Fund,Department of Energy and Environmental Protection,10010 - Personal Services,2060488,2051204,2163394,10010,10010
+Special Transportation Fund,Department of Energy and Environmental Protection,10020 - Other Expenses,701974,701974,701974,10020,10020
+Special Transportation Fund,Department of Transportation,10010 - Personal Services,175874964,185222982,195224586,10010,10010
+Special Transportation Fund,Department of Transportation,10020 - Other Expenses,53214223,53372716,53372716,10020,10020
+Special Transportation Fund,Department of Transportation,10050 - Equipment,1341329,1341329,1341329,10050,10050
+Special Transportation Fund,Department of Transportation,10070 - Minor Capital Projects,449639,449639,449639,10070,10070
+Special Transportation Fund,Department of Transportation,12017 - Highway Planning And Research,3060131,3060131,3060131,12017,12017
+Special Transportation Fund,Department of Transportation,12168 - Rail Operations,211673193,215598790,215927417,12168,12168
+Special Transportation Fund,Department of Transportation,12175 - Bus Operations,191687787,196616501,201522710,12175,12175
+Special Transportation Fund,Department of Transportation,12378 - ADA Para-transit Program,41839446,43303827,44819461,12378,12378
+Special Transportation Fund,Department of Transportation,12379 - Non-ADA Dial-A-Ride Program,1576361,576361,576361,12379,12379
+Special Transportation Fund,Department of Transportation,12518 - Pay-As-You-Go Transportation Projects,13629769,13652577,13676378,12518,12518
+Special Transportation Fund,Department of Transportation,12590 - Port Authority,400000,400000,400000,12590,12590
+Special Transportation Fund,Department of Transportation,12T77 - Transportation S4,0,1753904,1753904,12T77,12T77
+Special Transportation Fund,Department of Transportation,16276 - Transportation to Work ,2370629,2370629,2370629,16276,16276
+Special Transportation Fund,Statewide - Lapses,19501 - Unallocated Lapse,-12000000,-12000000,-12000000,19501,19501
+Special Transportation Fund,Statewide - Lapses,99401 - Achieve Labor Concessions,0,-18300000,-19700000,99401,99401
+Banking Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,95178,37367,39541,19001,19001
+Banking Fund,Department of Banking,10010 - Personal Services,10984235,11398113,11924323,10010,10010
+Banking Fund,Department of Banking,10020 - Other Expenses,1478390,1535297,1535307,10020,10020
+Banking Fund,Department of Banking,10050 - Equipment,44900,44900,44900,10050,10050
+Banking Fund,Department of Banking,12244 - Fringe Benefits,8787388,10260355,10734844,12244,12244
+Banking Fund,Department of Banking,12262 - Indirect Overhead,291192,121193,121193,12262,12262
+Banking Fund,Labor Department,12232 - Opportunity Industrial Centers,475000,475000,475000,12232,12232
+Banking Fund,Labor Department,12471 - Customized Services,950000,950000,950000,12471,12471
+Banking Fund,Department of Housing,12432 - Fair Housing,670000,670000,670000,12432,12432
+Banking Fund,Judicial Department ,12472 - Foreclosure Mediation Program,3610565,0,0,12472,12472
+Insurance Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,116945,61673,71133,19001,19001
+Insurance Fund,Office of Policy and Management,10010 - Personal Services,313882,332056,349339,10010,10010
+Insurance Fund,Office of Policy and Management,10020 - Other Expenses,6012,6012,6012,10020,10020
+Insurance Fund,Office of Policy and Management,12244 - Fringe Benefits,200882,236348,251038,12244,12244
+Insurance Fund,Insurance  Department,10010 - Personal Services,13796046,14649306,15496303,10010,10010
+Insurance Fund,Insurance  Department,10020 - Other Expenses,1727807,1850916,1725916,10020,10020
+Insurance Fund,Insurance  Department,10050 - Equipment,52500,52500,52500,10050,10050
+Insurance Fund,Insurance  Department,12244 - Fringe Benefits,10938946,13138962,13898634,12244,12244
+Insurance Fund,Insurance  Department,12262 - Indirect Overhead,466740,228468,228468,12262,12262
+Insurance Fund,Office of the Healthcare Advocate,10010 - Personal Services,1596950,1573775,1655805,10010,10010
+Insurance Fund,Office of the Healthcare Advocate,10020 - Other Expenses,305000,305000,305000,10020,10020
+Insurance Fund,Office of the Healthcare Advocate,10050 - Equipment,5000,5000,5000,10050,10050
+Insurance Fund,Office of the Healthcare Advocate,12244 - Fringe Benefits,1253599,1544438,1626111,12244,12244
+Insurance Fund,Office of the Healthcare Advocate,12262 - Indirect Overhead,106630,100,100,12262,12262
+Insurance Fund,Department of Housing,12605 - Crumbling Foundations,110844,146000,156000,12605,12605
+Insurance Fund,Department of Public Health ,12100 - Needle and Syringe Exchange Program,459416,460741,460741,12100,12100
+Insurance Fund,Department of Public Health ,12126 - Children's Health Initiatives,2935769,2963506,2988430,12126,12126
+Insurance Fund,Department of Public Health ,12236 - AIDS Services,4975686,4987064,4987064,12236,12236
+Insurance Fund,Department of Public Health ,12255 - Breast and Cervical Cancer Detection and Treatment,2150565,2170035,2189256,12255,12255
+Insurance Fund,Department of Public Health ,12563 - Immunization Services,48018326,55130636,62182296,12563,12563
+Insurance Fund,Department of Public Health ,16112 - X-Ray Screening and Tuberculosis Care,965148,965148,965148,16112,16112
+Insurance Fund,Department of Public Health ,17013 - Venereal Disease Control,197171,197341,197341,17013,17013
+Insurance Fund,Office of Health Strategy,10010 - Personal Services,836433,966086,1021026,10010,10010
+Insurance Fund,Office of Health Strategy,10020 - Other Expenses,2136767,2136767,2136767,10020,10020
+Insurance Fund,Office of Health Strategy,10050 - Equipment,10000,10000,10000,10050,10050
+Insurance Fund,Office of Health Strategy,12244 - Fringe Benefits,738151,815093,860664,12244,12244
+Insurance Fund,Department of Mental Health and Addiction Services,12157 - Managed Service System,408924,412377,412377,12157,12157
+Insurance Fund,Department of Rehabilitation Services,12565 - Fall Prevention,376023,377955,377955,12565,12565
+Consumer Counsel and Public Utility Control Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,89658,37296,42640,19001,19001
+Consumer Counsel and Public Utility Control Fund,Office of Consumer Counsel,10010 - Personal Services,1288453,1349679,1414178,10010,10010
+Consumer Counsel and Public Utility Control Fund,Office of Consumer Counsel,10020 - Other Expenses,332907,332907,332907,10020,10020
+Consumer Counsel and Public Utility Control Fund,Office of Consumer Counsel,10050 - Equipment,2200,2200,2200,10050,10050
+Consumer Counsel and Public Utility Control Fund,Office of Consumer Counsel,12244 - Fringe Benefits,1056988,1228208,1286902,12244,12244
+Consumer Counsel and Public Utility Control Fund,Office of Consumer Counsel,12262 - Indirect Overhead,100,40568,40568,12262,12262
+Consumer Counsel and Public Utility Control Fund,Department of Energy and Environmental Protection,10010 - Personal Services,11834823,12333038,12837077,10010,10010
+Consumer Counsel and Public Utility Control Fund,Department of Energy and Environmental Protection,10020 - Other Expenses,1479367,1479367,1479367,10020,10020
+Consumer Counsel and Public Utility Control Fund,Department of Energy and Environmental Protection,10050 - Equipment,19500,19500,19500,10050,10050
+Consumer Counsel and Public Utility Control Fund,Department of Energy and Environmental Protection,12244 - Fringe Benefits,9467858,10603413,11039886,12244,12244
+Consumer Counsel and Public Utility Control Fund,Department of Energy and Environmental Protection,12262 - Indirect Overhead,100,100,100,12262,12262
+Workers' Compensation Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,72298,29681,27484,19001,19001
+Workers' Compensation Fund,Division of Criminal Justice,10010 - Personal Services,369969,387926,408464,10010,10010
+Workers' Compensation Fund,Division of Criminal Justice,10020 - Other Expenses,10428,10428,10428,10020,10020
+Workers' Compensation Fund,Division of Criminal Justice,12244 - Fringe Benefits,306273,407322,428887,12244,12244
+Workers' Compensation Fund,Labor Department,12045 - Occupational Health Clinics,687148,689452,691122,12045,12045
+Workers' Compensation Fund,Workers' Compensation Commission,10010 - Personal Services,10240361,10648775,10971397,10010,10010
+Workers' Compensation Fund,Workers' Compensation Commission,10020 - Other Expenses,2659765,2799545,2709545,10020,10020
+Workers' Compensation Fund,Workers' Compensation Commission,10050 - Equipment,1,1,1,10050,10050
+Workers' Compensation Fund,Workers' Compensation Commission,12244 - Fringe Benefits,8192289,10222827,10533241,12244,12244
+Workers' Compensation Fund,Workers' Compensation Commission,12262 - Indirect Overhead,291637,635967,635967,12262,12262
+Workers' Compensation Fund,Department of Rehabilitation Services,10010 - Personal Services,514113,532952,556240,10010,10010
+Workers' Compensation Fund,Department of Rehabilitation Services,10020 - Other Expenses,53822,53822,53822,10020,10020
+Workers' Compensation Fund,Department of Rehabilitation Services,12066 - Rehabilitative Services,1111913,1111913,1111913,12066,12066
+Workers' Compensation Fund,Department of Rehabilitation Services,12244 - Fringe Benefits,430485,493567,515134,12244,12244
+Mashantucket Pequot and Mohegan Fund,Office of Policy and Management,17005 - Grants To Towns,49942796,49942796,49942796,17005,17005
+Regional Market Operation Fund,State Comptroller - Miscellaneous,19001 - Nonfunctional - Change to Accruals,2845,1264,1636,19001,19001
+Regional Market Operation Fund,Department of Agriculture ,10010 - Personal Services,430138,449091,470898,10010,10010
+Regional Market Operation Fund,Department of Agriculture ,10020 - Other Expenses,273007,273007,273007,10020,10020
+Regional Market Operation Fund,Department of Agriculture ,12244 - Fringe Benefits,361316,361316,361316,12244,12244
+Criminal Injuries Compensation Fund,Judicial Department ,12047 - Criminal Injuries Compensation,2934088,2934088,2934088,12047,12047
+Tourism Fund,Department of Economic and Community Development,12296 - Statewide Marketing,4130912,4380912,4380912,12296,12296
+Tourism Fund,Department of Economic and Community Development,12412 - Hartford Urban Arts Grant,242371,242371,242371,12412,12412
+Tourism Fund,Department of Economic and Community Development,12413 - New Britain Arts Council,39380,39380,39380,12413,12413
+Tourism Fund,Department of Economic and Community Development,12435 - Main Street Initiatives,100000,100000,100000,12435,12435
+Tourism Fund,Department of Economic and Community Development,12562 - Neighborhood Music School,80540,80540,80540,12562,12562
+Tourism Fund,Department of Economic and Community Development,16115 - Nutmeg Games,40000,40000,40000,16115,16115
+Tourism Fund,Department of Economic and Community Development,16175 - Discovery Museum,196895,196895,196895,16175,16175
+Tourism Fund,Department of Economic and Community Development,16188 - National Theatre of the Deaf,78758,78758,78758,16188,16188
+Tourism Fund,Department of Economic and Community Development,16209 - Connecticut Science Center,446626,446626,446626,16209,16209
+Tourism Fund,Department of Economic and Community Development,16219 - CT Flagship Producing Theaters Grant,259951,259951,259951,16219,16219
+Tourism Fund,Department of Economic and Community Development,16256 - Performing Arts Centers,787571,787571,787571,16256,16256
+Tourism Fund,Department of Economic and Community Development,16257 - Performing Theaters Grant,306753,306753,306753,16257,16257
+Tourism Fund,Department of Economic and Community Development,16258 - Arts Commission,1497298,1497298,1497298,16258,16258
+Tourism Fund,Department of Economic and Community Development,16262 - Art Museum Consortium,287313,287313,287313,16262,16262
+Tourism Fund,Department of Economic and Community Development,16264 - Litchfield Jazz Festival,29000,29000,29000,16264,16264
+Tourism Fund,Department of Economic and Community Development,16267 - Arte Inc.,20735,20735,20735,16267,16267
+Tourism Fund,Department of Economic and Community Development,16268 - CT Virtuosi Orchestra,15250,15250,15250,16268,16268
+Tourism Fund,Department of Economic and Community Development,16269 - Barnum Museum,20735,20735,20735,16269,16269
+Tourism Fund,Department of Economic and Community Development,16275 - Various Grants,393856,393856,393856,16275,16275
+Tourism Fund,Department of Economic and Community Development,16277 - CT Open,250000,0,0,16277,16277
+Tourism Fund,Department of Economic and Community Development,17063 - Greater Hartford Arts Council,74079,74079,74079,17063,17063
+Tourism Fund,Department of Economic and Community Development,17065 - Stepping Stones Museum for Children,30863,30863,30863,17065,17065
+Tourism Fund,Department of Economic and Community Development,17066 - Maritime Center Authority,303705,303705,303705,17066,17066
+Tourism Fund,Department of Economic and Community Development,17069 - Connecticut Humanities Council,850000,850000,850000,17069,17069
+Tourism Fund,Department of Economic and Community Development,17070 - Amistad Committee for the Freedom Trail,36414,36414,36414,17070,17070
+Tourism Fund,Department of Economic and Community Development,17072 - New Haven Festival of Arts and Ideas,414511,414511,414511,17072,17072
+Tourism Fund,Department of Economic and Community Development,17073 - New Haven Arts Council,52000,52000,52000,17073,17073
+Tourism Fund,Department of Economic and Community Development,17075 - Beardsley Zoo,253879,253879,253879,17075,17075
+Tourism Fund,Department of Economic and Community Development,17076 - Mystic Aquarium,322397,322397,322397,17076,17076
+Tourism Fund,Department of Economic and Community Development,17078 - Northwestern Tourism,400000,400000,400000,17078,17078
+Tourism Fund,Department of Economic and Community Development,17079 - Eastern Tourism,400000,400000,400000,17079,17079
+Tourism Fund,Department of Economic and Community Development,17080 - Central Tourism,400000,400000,400000,17080,17080
+Tourism Fund,Department of Economic and Community Development,17082 - Twain/Stowe Homes,81196,81196,81196,17082,17082
+Tourism Fund,Department of Economic and Community Development,17100 - Cultural Alliance of Fairfield,52000,52000,52000,17100,17100
